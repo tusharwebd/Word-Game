@@ -1,5 +1,7 @@
 # Word-Game
 
+- This application uses flask for backend and react for frontend. Additionally, we use websockets to create game room and to handle player communication.
+
 ## Getting Started
 
 - Go into backend directory and run python3 main.py
